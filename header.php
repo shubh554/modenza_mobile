@@ -47,26 +47,15 @@
           <img src="modenzalogo.png"  class="logo" alt="">
         </a>
       </div>
-      <!-- <div class="vertical-panel-content">
-        <div class="vertical-panel-info">
-            <div class="line"></div>
-         </div>
-        <ul class="social-list">
-          <li><a href="" class="fa fa-instagram"></a></li>
-          <li><a href="" class="fa fa-facebook"></a></li>
-          <li><a href="" class="fa fa-youtube"></a></li>
-         </ul>  
-      </div>  -->
-
-      <!-- Navigation Desctop -->
-
+    
+      <!-- Navigation Desktop -->
       <nav class="navbar-desctop visible-md visible-lg">
         <div class="container">
           <a href="index.php" class="brand js-target-scroll">
             <img src="modenzalogo.png"  class="logo" alt="">
           </a>
           <ul class="navbar-desctop-menu">
-            <li>
+            <li class="active">
               <a href="index.php">Home</a>
             </li>
             <li>
@@ -101,7 +90,7 @@
 
         <div class="collapse navbar-collapse" id="navbar-mobile"> 
           <ul class="navbar-nav-mobile">
-            <li>
+            <li class="active">
               <a href="#">Home <i class="fa fa-angle-down"></i></a>
             </li>
 
@@ -109,13 +98,13 @@
               <a href="about.php">About Us</a>
             </li>
             <li>
-              <a href="#">Shutter</a>
+              <a href="shutter.php">Shutter</a>
             </li>
             <li>
-              <a href="#">Carcass</a>
+              <a href="carcass.php">Carcass</a>
             </li>
             <li>
-              <a href="#">Dealer Enquiry</a>
+              <a href="contact.php">Dealer Enquiry</a>
             </li>
 
           </ul>

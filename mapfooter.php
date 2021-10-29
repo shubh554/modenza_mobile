@@ -4,14 +4,14 @@
 <section class="contacts section">
     <div class="container-fluid" style="margin-left: 60px;">
         <div class="row-base row">
-            <div class="col-address col-base col-md-4" style="font-size:14px">
+            <div class="col-address col-base col-md-4" style="font-size:16px">
                 <b><span class="text-primary" style="font-size:20px;">MODENZA DESIGNS LLP</span></b><br>
                 <ul class="footerlinks">
                     <li><i class="fa fa-phone icon-circle" style="padding: 8px 10px;"></i> +91 91613 00003 | +91 75700 00803</li>
                     <li><i class="fa fa-envelope icon-circle"></i> sales@modenza.in | info@modenza.in</li>
                     <li>
                         <i class="fa fa-map-marker icon-circle" style="padding: 8px 12px;"></i> 
-                        <span>Khasra No. 55, Deva Road, Chinhat, Lucknow 227105, Uttar Pradesh, India</span><br>
+                        <span>No. 55, Deva Road, Chinhat, Lucknow 227105, Uttar Pradesh, India</span><br>
                     </li>
                 </ul>
             </div>
@@ -34,8 +34,6 @@
         </div>
     </footer>
 </section>
-
-
 
 <!-- Lines -->
 <div class="page-lines">
