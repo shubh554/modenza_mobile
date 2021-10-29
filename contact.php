@@ -4,10 +4,10 @@
   <div class="layout">
     
     <!-- Home -->
-    <main class="main main-inner bg-about" data-stellar-background-ratio="0.6"  style = "background: url(img/contact_bg.jpg) 50% 0 no-repeat; background-size: cover;">
+    <main class="main main-inner bg-about" style = "background: url(img/contact_bg.jpg) 50% 0 no-repeat; background-size: cover;" data-stellar-background-ratio="0.6">
       <div class="container">
         <header class="main-header">
-            <h2  style="background: #000; color: #e5bf93; width: fit-content; padding: 20px; margin-bottom: 0px; text-align: center;float:right">Plan | Perform | Grow</h2>
+            <h2  style="background: #000; color: #e5bf93; width: fit-content; padding: 20px; margin-bottom: 0px; text-align: center;">Plan | Perform | Grow</h2>
         </header>
       </div>
 
@@ -74,7 +74,7 @@
     <section class="contact-details" style="margin-top:5%">
         <div class="col-map col-md-7">
           <div id="map" class="gmap col-md-7">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.234774672234!2d81.04279581504461!3d26.89604318313481!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39995943c06faa39%3A0xbfc788fd7323584a!2sModenza%20Designs%20LLP!5e0!3m2!1sen!2sin!4v1635333147944!5m2!1sen!2sin" 
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14235.267278468007!2d81.0393001!3d26.8775604!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xeb2c82ee411c79f8!2sModenza%20Design%20llp!5e0!3m2!1sen!2sin!4v1632916097037!5m2!1sen!2sin" 
               width="100%" 
               height="540px" 
               allowfullscreen="" 

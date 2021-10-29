@@ -70,7 +70,7 @@
           <div class="section-content">
               <div class="row-base row">
               <div class="col-base col-sm-6 col-md-6">
-                  <h3 class="col-about-title" style="font-size:26px !important;margin-top:5%">think modular,&nbsp;think modenza</h3>
+                  <h3 class="col-about-title" style="font-size:26px !important">think modular,&nbsp;think modenza</h3>
                   <div class="col-about-info">
                   <p>Modenza is a modular component manufacturer for Kitchens, Wardrobes & TV Units.</p>
                   <p>
@@ -98,19 +98,19 @@
           <div class="heading">
           <h2 class="section-title">Our <span class="text-primary">Milestones</span></h2>
           </div>
-          <div class="counter-container" style="" >
-              <div class="counter" style="margin-left:7%" >
-              <img src="img/dealer_icon.png" style="height:80px"/>
+          <div class="counter-container">
+              <div class="counter">
+                <img src="img/dealer_icon.png" style="width: 96px;" alt="">
                 <h3 data-target="85" class="count">0</h3>
                 <p style="color:white">DEALERS</p>
               </div>
-              <div class="counter" style="margin-left:7%">
-                     <img src="img/kitchen_icon.png" style="height:80px"/>
+              <div class="counter">
+                <img src="img/kitchen_icon.png"/>
                 <h3 data-target="10500" class="count">0</h3>
-                <p style="color:white">KITCHENS Manufactured</p>
+                <p style="color:white">KITHCENS Manufactured</p>
               </div>
               <div class="counter">
-                  <img src="img/wardrobe_icon.png" style="height:80px"/>
+                <img src="img/wardrobe_icon.png" alt="">
                 <h3 data-target="4500" class="count">0</h3>
                 <p style="color:white">WARDROBES Manufactured</p>
               </div>
@@ -123,7 +123,7 @@
           <div class="text-parallax" data-stellar-background-ratio="0.85" style="background-image: url('img/backgrounds/shutterbg.jpeg');">
             <div class="text-parallax-content">7</div>
           </div>
-          <h4 class="experience-info wow fadeInRight"><span class="text-primary">Years of experience</span><br> in manufacturing kitchens & Wardrobes</h4>
+          <h4 class="experience-info wow fadeInRight"><span class="text-primary">Years of experience</span><br> in crafting the kitchens</h4>
         </div>
       </section>
 
@@ -131,7 +131,7 @@
       <section id="services" class="services section">
           <div class="container">
           <header class="section-header">
-              <h2 class="section-title" style="margin-bottom:7%">Our<span class="text-primary">&nbsp;Purpose</span></h2>
+              <h2 class="section-title">Our<span class="text-primary">&nbsp;Purpose</span></h2>
           </header>
           <div class="section-content">
               <div class="row-services row-base row">

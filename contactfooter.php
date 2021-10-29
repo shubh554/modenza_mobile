@@ -2,9 +2,9 @@
 
 <!-- Contacts -->
 <section class="contacts section">
-      <header class="section-header">
-              <h2 class="section-title" style="margin-bottom:5%">Contact<span class="text-primary">&nbsp;Us</span></h2>
-          </header>
+    <header class="section-header">
+        <h2 class="section-title" style="margin-top: 2em;margin-left:14px;">Contact<span class="text-primary">&nbsp;Us</span></h2>
+    </header>
     <div class="container">
         <header class="section-header">
             <!-- <h2 class="section-title">Get <span class="text-primary">in touch</span></h2>
@@ -56,23 +56,22 @@
             </div>
         </div>
     </div>
+    <!-- Footer -->
+    <footer id="footer" class="footer">     
+        <div class="container">
+        <div class="row-base row">
+            <div class="col-base text-left-md col-md-4">
+            © Modenza 2021. All Rights Reserved.
+            </div>
+            <div class="text-center-md col-base col-md-4">
+            </div>
+            <div class="text-right-md col-base col-md-4">
+            by Codeedge
+            </div>
+        </div>
+        </div>
+    </footer>
 </section>
-
-<!-- Footer -->
-<footer id="footer" class="footer">     
-    <div class="container">
-    <div class="row-base row">
-        <div class="col-base text-left-md col-md-4">
-        © Modenza 2021. All Rights Reserved.
-        </div>
-        <div class="text-center-md col-base col-md-4">
-        </div>
-        <div class="text-right-md col-base col-md-4">
-        by Codeedge
-        </div>
-    </div>
-    </div>
-</footer>
 
 <!-- Lines -->
 <div class="page-lines">
